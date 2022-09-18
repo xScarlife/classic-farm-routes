@@ -20,8 +20,13 @@ You can watch my video where I explain how you can import my farming routes auto
 
 ## Required addons (Wotlk versions)
 1) [Routes](https://www.curseforge.com/wow/addons/routes)
+
+
 ![5](https://user-images.githubusercontent.com/24465574/190901683-adb47fe0-d808-42f1-b7b4-52ac70dbba3d.png)
+
 2) [Routes Import & Export](https://www.curseforge.com/wow/addons/routes-import-export)
+
+
 ![6](https://user-images.githubusercontent.com/24465574/190901703-c96d4eda-ccd1-4cb5-b79d-66c689df84d6.png)
 
 
