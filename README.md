@@ -15,7 +15,7 @@ You can watch my video where I explain how you can import my farming routes auto
 3) To import a route copy the export string from the text file, open the "Routes" window (console command /routes) and select the "Routes" section. You can see a new Import text box. 
 ![3](https://user-images.githubusercontent.com/24465574/190901492-966aa4a1-c243-4010-945d-fd75d3548d22.png)
 5) Paste the route string to import (Ctrl+V) and click the Accept button. 
-![4](https://user-images.githubusercontent.com/24465574/185458492-86949b8d-80a1-4460-815c-c0de44761c92.png)
+![4](https://user-images.githubusercontent.com/24465574/190901633-a068f9b2-c57f-4bd7-bf67-9a6761930455.png)
 7) Your route should now be correctly imported.
 
 ## Required addons (Wotlk versions)
