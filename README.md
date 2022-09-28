@@ -5,7 +5,7 @@
 
 This page contains all the farming routes I made myself to use in combination with the Routes addon. Please note that you are NOT allowed to share my farming routes on the internet without my permission. I made these routes to help out the World of Warcraft community.
 
-You can watch my video where I explain how you can import my farming routes automatically here: **https://youtu.be/ONdMZOPgmd4**.
+You can watch my video where I explain how you can import my farming routes automatically here: **https://youtu.be/e95umkjTqEE**.
 
 ## Written instructions
 1) Download the 'Routes' and the 'Routes Import & Export' addons for Classic Wotlk.
